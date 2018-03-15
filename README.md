@@ -6,6 +6,7 @@
 View Demo: https://lorepirri.gitlab.io/jekyll-theme-simple-blog/
 
 -----
+# Computer science Major
 # Simple Blog Theme
 
 *Simple Blog is a Jekyll theme for Gitlab or GitHub Pages. It is based on [Cayman Blog Theme](https://github.com/lorepirri/cayman-blog). You can [preview the theme to see what it looks like](https://lorepirri.gitlab.io/jekyll-theme-simple-blog/), or even [use it today](#install).*
